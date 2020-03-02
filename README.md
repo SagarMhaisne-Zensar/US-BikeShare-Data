@@ -1,6 +1,6 @@
  Bikeshare Data Project
 
-This project was done under Python Foundation, here we explore data for the following three cities:
+Here we explore data for the following three cities:
 
 Chicago
 Washington
